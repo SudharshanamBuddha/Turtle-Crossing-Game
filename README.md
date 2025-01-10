@@ -29,3 +29,10 @@ A simple game built using Python's `turtle` module, where the player controls a 
 1. Clone the repository or download the files 📥.
 2. Make sure Python 3.x is installed on your system 🔧.
 3. Run the `Turtle_Crossing_Game.py` file to start the game 🏁.
+
+## Preview 📸
+![image](https://github.com/user-attachments/assets/5aa28a1a-3b5c-45e9-a7c1-7ea87af2343f)
+
+![image](https://github.com/user-attachments/assets/c78e7b29-fb46-4c06-97a5-c2835020e4ab)
+
+![image](https://github.com/user-attachments/assets/f2cc46cd-0b01-47aa-9eb6-eb5cbc7d17a6)
